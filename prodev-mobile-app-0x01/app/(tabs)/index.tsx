@@ -20,7 +20,7 @@ export default function EntryScreen() {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "#90caf9",
+    backgroundColor: "#04192bff",
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
