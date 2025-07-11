@@ -20,11 +20,11 @@ export default function EntryScreen() {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "#04192bff",
-    flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
+    flex: 1, // Take full screen height
+    justifyContent: "center", // Center vertically
+    alignItems: "center",     // Center horizontally
     padding: 20,
+    backgroundColor: "#90caf9",
   },
   largeText: {
     fontSize: 30,
